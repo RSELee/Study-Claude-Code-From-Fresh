@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="resources/logos/claude-howto-logo-dark.svg">
-  <img alt="Claude How To" src="resources/logos/claude-howto-logo.svg">
-</picture>
+[![Localization](https://img.shields.io/badge/localization-zh--CN-brightgreen)](LOCALIZATION-STYLE.md)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-2.1+-purple)](https://code.claude.com)
 
 # Study-Claude-Code-From-Fresh
 
@@ -10,3 +8,6 @@
 **[还不会安装？点这里](#如何安装)**
 
 ---
+
+
+##如何安装
