@@ -1,4 +1,12 @@
-# Study-Claude-Code-From-Fresh
-#从0学习使用Claude Code，实现自己想做的项目，记录学习过程
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="resources/logos/claude-howto-logo-dark.svg">
+  <img alt="Claude How To" src="resources/logos/claude-howto-logo.svg">
+</picture>
 
-中国用户如何安装配置Claude Code，可以去如何安装
+# Study-Claude-Code-From-Fresh
+
+从0学习Claude code，记录学习过程
+
+**[还不会安装？点这里](#如何安装)**
+
+---
